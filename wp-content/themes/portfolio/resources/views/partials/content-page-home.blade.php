@@ -6,7 +6,7 @@
   <div class="wrap slideshow-container container">
       <div class="project mySlides smooth" style="display: none;">
 
-        <a href="/projects/5c9e45b320eaf13dd4633451" target="_blank">
+        <a href="http://secretshows.net" target="_blank">
           <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554358229/demo/xyn6qmrtqqlzgrpiu893.png)"></div>
         </a>
 
@@ -22,7 +22,7 @@
 
       <div class="project mySlides smooth" style="">
 
-        <a href="/projects/5c9e5766fd6e0f3f14799315" target="_blank">
+        <a href="https://tranquil-falls-26918.herokuapp.com/" target="_blank">
           <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554364393/demo/davmxsybsakneazptx1a.png)"></div>
         </a>
 
@@ -37,7 +37,7 @@
       </div>
 
       <div class="project mySlides smooth" style="display: none;">
-        <a href="/projects/5cad3921781e7f1c8866e35d" target="_blank">
+        <a href="http://thehouseofaura.net" target="_blank">
           <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554856226/demo/ica8o5qs231sqnuxenul.png)"></div>
         </a>
 

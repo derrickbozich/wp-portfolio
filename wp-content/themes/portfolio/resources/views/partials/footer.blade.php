@@ -1,7 +1,7 @@
 <footer class="">
   <div class="container">
     <div class="item">
-      <a class="footer-home-link" href="http://derrickbozich.com">DERRICK BOZICH ç2019</a>
+      <a class="footer-home-link" href="/">DERRICK BOZICH</a>
     </div>
     <div class="item">
       <a href="mailto:dbozich1@gmail.com">dbozich1@gmail.com</a>
