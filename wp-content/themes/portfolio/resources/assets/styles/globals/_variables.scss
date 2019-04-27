@@ -1,0 +1,8 @@
+@mixin outline{
+  outline: 2px solid black;
+}
+
+$breakpoint450: "only screen and (min-width : 450px)";
+$breakpointTablet: "only screen and (min-width : 760px)";
+$breakpointDesktop: "only screen and (min-width : 960px)";
+$breakpointWide: "only screen and (min-width : 1100px)";

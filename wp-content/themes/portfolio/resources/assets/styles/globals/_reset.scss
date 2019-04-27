@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  // font-family: Helvetica;
+  min-height: 100vh;
+  position: relative;
+  display: grid;
+  grid-template-columns:
+    1.5em
+    1fr
+    1.5em;
+  grid-template-areas:
+    "header header header"
+    ". main ."
+    "footer footer footer";
+  grid-auto-rows: minmax(10px, auto);
+  // font-family: 'IBM Plex Sans', sans-serif;
+
+  a {
+    color: black;
+  }
+
+  a:hover{
+    text-decoration: none;
+    color: coral;
+  }
+
+  background-color: hsla(190, 81%, 53%, 0.13) !important;
+}
