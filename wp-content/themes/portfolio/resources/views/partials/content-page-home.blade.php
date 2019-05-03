@@ -20,7 +20,7 @@
         </div>
       </div>
 
-      <div class="project mySlides smooth" style="">
+      <!-- <div class="project mySlides smooth" style="">
 
         <a href="https://tranquil-falls-26918.herokuapp.com/" target="_blank">
           <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554364393/demo/davmxsybsakneazptx1a.png)"></div>
@@ -32,6 +32,51 @@
           </div>
           <div class="project-description">
             An app for musicians to keep track of finances and sell merchandise. Made with React, Redux and Ruby on Rails
+          </div>
+        </div>
+      </div> -->
+
+      <div class="project mySlides smooth" style="display: none;">
+        <a href="https://marfamyths.com" target="_blank">
+          <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554856226/demo/ica8o5qs231sqnuxenul.png)"></div>
+        </a>
+
+        <div class="project-info">
+          <div class="project-title">
+            Marfa Myths
+          </div>
+          <div class="project-description">
+            A website I worked on with Tom Metz for Marfa Myths. Created with Wordpress and Sage.
+          </div>
+        </div>
+      </div>
+
+      <div class="project mySlides smooth" style="display: none;">
+        <a href="https://mosspinkflora.com" target="_blank">
+          <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554856226/demo/ica8o5qs231sqnuxenul.png)"></div>
+        </a>
+
+        <div class="project-info">
+          <div class="project-title">
+            Moss Pink Flora
+          </div>
+          <div class="project-description">
+            A website I worked on with Tom Metz for Moss Pink Flora. Created with Wordpress and Sage.
+          </div>
+        </div>
+      </div>
+
+      <div class="project mySlides smooth" style="display: none;">
+        <a href="https://multidim.net" target="_blank">
+          <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554856226/demo/ica8o5qs231sqnuxenul.png)"></div>
+        </a>
+
+        <div class="project-info">
+          <div class="project-title">
+            Multidim
+          </div>
+          <div class="project-description">
+            A website I worked on with Tom Metz for Multidim recordings. Created with Wordpress and Sage.
           </div>
         </div>
       </div>
