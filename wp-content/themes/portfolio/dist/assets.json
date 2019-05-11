@@ -1,12 +1,13 @@
 {
   "images/aura.png": "images/aura_04566088.png",
+  "images/citylax.png": "images/citylax_abf06844.png",
   "images/favicon.jpg": "images/favicon_27ca4f00.jpg",
   "images/hamburger.png": "images/hamburger_6f489fdd.png",
   "images/marfa.png": "images/marfa_432a77a8.png",
   "images/mosspink.png": "images/mosspink_4b4546c5.png",
   "images/multidim.png": "images/multidim_07c48529.png",
   "images/secretshows.png": "images/secretshows_a104aa1f.png",
-  "scripts/customizer.js": "scripts/customizer_348e7ca4.js",
-  "styles/main.css": "styles/main_348e7ca4.css",
-  "scripts/main.js": "scripts/main_348e7ca4.js"
+  "scripts/customizer.js": "scripts/customizer_127781fd.js",
+  "styles/main.css": "styles/main_127781fd.css",
+  "scripts/main.js": "scripts/main_127781fd.js"
 }

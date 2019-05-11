@@ -71,6 +71,10 @@
     background-image: url(../images/secretshows.png);
   }
 
+  .project-image.citylax{
+    background-image: url(../images/citylax.png);
+  }
+
 
 
   .project-info{
@@ -88,6 +92,10 @@
     .project-description{
       font-size: 1.3em;
       text-align: left;
+
+      a{
+        text-decoration: underline;
+      }
       @media #{$breakpointTablet}{
         font-size: 1.5em;
       }
@@ -107,7 +115,7 @@
     width: auto;
     margin-top: -22px;
     padding: 16px;
-    color: black; 
+    color: black;
     font-weight: bold;
     font-size: 18px;
     transition: 0.6s ease;

@@ -127,7 +127,7 @@ $( document ).ready(function() {
     function next(){
       slides.eq(slideIndex-1).show();
       dots.eq(slideIndex-1).addClass('active');
-      $('.dot-index').text(`No˚${slideIndex}`);
+      $('.dot-index').text(`N˚${slideIndex}`);
     }
   }
 
