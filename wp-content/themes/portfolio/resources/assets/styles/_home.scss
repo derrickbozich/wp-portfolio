@@ -37,7 +37,7 @@
    }
 
   .project-image{
-    background-position: left;
+    background-position:  top left;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -50,6 +50,28 @@
       height: 400px;
     }
   }
+
+  .project-image.mosspink{
+    background-image: url(../images/mosspink.png);
+  }
+
+  .project-image.multidim{
+    background-image: url(../images/multidim.png);
+  }
+
+  .project-image.aura{
+    background-image: url(../images/aura.png);
+  }
+
+  .project-image.marfa{
+    background-image: url(../images/marfa.png);
+  }
+
+  .project-image.secret-shows{
+    background-image: url(../images/secretshows.png);
+  }
+
+
 
   .project-info{
     margin-bottom: 10px;
@@ -71,7 +93,7 @@
       }
     }
   }
-}
+} /* .project */
 
 /* Slideshow container */
 .slideshow-container.container {
@@ -96,12 +118,12 @@
   /* Position the "next button" to the right */
   .next {
     right: -20px;
-    border-radius: 3px 0 0 3px;
+    border-radius: 0px 3px 3px 0px;
   }
 
   .prev{
     left: -20px;
-    border-radius: 0 3px 3px 0;
+    border-radius: 3px 0px 0px 3px;
   }
 
   /* On hover, add a black background color with a little bit see-through */

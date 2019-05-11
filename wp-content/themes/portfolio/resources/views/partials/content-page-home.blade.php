@@ -7,7 +7,7 @@
       <div class="project mySlides smooth" style="display: none;">
 
         <a href="http://secretshows.net" target="_blank">
-          <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554358229/demo/xyn6qmrtqqlzgrpiu893.png)"></div>
+          <div class="project-image secret-shows" ></div>
         </a>
 
         <div class="project-info">
@@ -20,25 +20,9 @@
         </div>
       </div>
 
-      <!-- <div class="project mySlides smooth" style="">
-
-        <a href="https://tranquil-falls-26918.herokuapp.com/" target="_blank">
-          <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554364393/demo/davmxsybsakneazptx1a.png)"></div>
-        </a>
-
-        <div class="project-info">
-          <div class="project-title">
-            Manager
-          </div>
-          <div class="project-description">
-            An app for musicians to keep track of finances and sell merchandise. Made with React, Redux and Ruby on Rails
-          </div>
-        </div>
-      </div> -->
-
       <div class="project mySlides smooth" style="display: none;">
         <a href="https://marfamyths.com" target="_blank">
-          <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554856226/demo/ica8o5qs231sqnuxenul.png)"></div>
+          <div class="project-image marfa" ></div>
         </a>
 
         <div class="project-info">
@@ -53,7 +37,7 @@
 
       <div class="project mySlides smooth" style="display: none;">
         <a href="https://mosspinkflora.com" target="_blank">
-          <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554856226/demo/ica8o5qs231sqnuxenul.png)"></div>
+          <div class="project-image mosspink"></div>
         </a>
 
         <div class="project-info">
@@ -68,7 +52,7 @@
 
       <div class="project mySlides smooth" style="display: none;">
         <a href="https://multidim.net" target="_blank">
-          <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554856226/demo/ica8o5qs231sqnuxenul.png)"></div>
+          <div class="project-image multidim"></div>
         </a>
 
         <div class="project-info">
@@ -83,7 +67,7 @@
 
       <div class="project mySlides smooth" style="display: none;">
         <a href="http://thehouseofaura.net" target="_blank">
-          <div class="project-image" style="background-image: url(http://res.cloudinary.com/derrickbozich/image/upload/v1554856226/demo/ica8o5qs231sqnuxenul.png)"></div>
+          <div class="project-image aura"></div>
         </a>
 
         <div class="project-info">
