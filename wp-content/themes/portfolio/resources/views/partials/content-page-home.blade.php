@@ -16,7 +16,7 @@
             Marfa Myths
           </div>
           <div class="project-description">
-            A music festival page for the record label Mexican Summer. I worked on this site with <a href="https://tommetzmedia.com">Tom Metz</a>. Created with wordpress and Sage.
+            A music festival for the record label Mexican Summer. I worked on this site with <a href="https://tommetzmedia.com">Tom Metz</a>. Created with Wordpress and Sage.
           </div>
         </div>
       </div>
@@ -46,7 +46,7 @@
             Multidim
           </div>
           <div class="project-description">
-            A website the Denver record label <a href="https://www.multidim.net">Multidim</a> I worked on with <a href="https://tommetzmedia.com">Tom Metz</a>. Created with Wordpress and Sage.
+            A website the Denver-based electronic/experimental record label <a href="https://www.multidim.net">Multidim</a>. I worked on this page with <a href="https://tommetzmedia.com">Tom Metz</a>. Created with Wordpress and Sage.
           </div>
         </div>
       </div>
@@ -76,7 +76,7 @@
             Denver City Lacrosse
           </div>
           <div class="project-description">
-            A website for the non-profit organization <a href="https://citylaxdenver.org/">Denver City Lacrosse</a> I worked on this page with <a href="https://tommetzmedia.com">Tom Metz</a>. Created with PHP.
+            A website for the non-profit organization <a href="https://citylaxdenver.org/">Denver City Lacrosse</a>. I worked on this page with <a href="https://tommetzmedia.com">Tom Metz</a>. Created with PHP.
           </div>
         </div>
       </div>
@@ -92,7 +92,7 @@
             Secret Shows
           </div>
           <div class="project-description">
-            An app I made for users to post about DIY  shows happening in any city. Made with Ruby on Rails.
+            An app I made for users to post DIY  shows happening in any city. Made with Ruby on Rails.
           </div>
         </div>
       </div>
