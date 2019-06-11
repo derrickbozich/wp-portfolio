@@ -2,14 +2,14 @@
   <div class="content">
     <div class="header-phrase">
       Hi! I'm Derrick Bozich. A full stack
-      developer living in Denver, Colorado. Thank you for
+      developer living in Portland, Oregon. Thank you for
       visiting my portfolio!
     </div>
     <div class="about-wrap">
       <h1>About Me</h1>
       <div class="bio item">
 
-        I have been coding since 2017 and have a certificate in full stack web development from <a class="link" href="https://flatironschool.com/">The Flatiron School</a>  (NYC).
+        I have been coding since 2016 and have a certificate in full stack web development from <a class="link" href="https://flatironschool.com/">The Flatiron School</a>  (NYC).
         I am freelance developer currently working with <a class="link" href="http://tommetzmedia.com">Tom Metz Media</a>.
         I have a passion for learning, collaboration and doing quality work!
       </div>
@@ -21,7 +21,7 @@
         Wordpress, PHP, Sage,
         Ruby on Rails,
         CSS3, HTML5, JavaScript, Git,
-        Processing, Photoshop, Sketch.
+        Processing, Photoshop, Sketch, Gatsby.js, Prismic.io, GraphQL, Object Oriented Programming.
       </div>
 
       <h1>Clients</h1>
